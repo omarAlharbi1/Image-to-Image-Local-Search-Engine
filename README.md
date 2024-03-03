@@ -6,7 +6,7 @@ search engine that search using image, (reverse image searching), used to find s
 # Functionalities:
 1. you can filter a dataset to get a similar images to a corseponding image,
 2. by increasing the threshold you will seperate duplications in a dataset,
-3. by decreasing the threshold you will seperate every type of images to a specific folders
+3. by decreasing the threshold you will seperate every type of images to a folder for that type, resulting in multiple folders each one has a similar images
 4. and much more functionalities in future updates...
 
 # Usage:
