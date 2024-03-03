@@ -8,6 +8,10 @@ Functionalities:
 2. you can seperate duplications in a dataset,
 3. Planned for more
 
+Usage:
+very simple, just run the tool and follow the instructions,
+if you face any problems with the color or the logo,
+add an argument to the main.py (--no_colors true) to remove colors and logo
 
 ## Pictures
 
