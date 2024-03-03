@@ -11,5 +11,5 @@ Functionalities:
 
 ## Pictures
 
--<img width="889" alt="https://github.com/omarAlharbi1/ImageR-image-Search-Engine-using-image/assets/127057011/76a4c78b-d210-466f-a45c-9cf5712e5a45">
--<img width="678" alt="https://github.com/omarAlharbi1/ImageR-image-Search-Engine-using-image/assets/127057011/da5a47a6-f290-4f6e-909c-3ced9f54ccab">
+-<img width="889" src="https://github.com/omarAlharbi1/ImageR-image-Search-Engine-using-image/assets/127057011/76a4c78b-d210-466f-a45c-9cf5712e5a45">
+-<img width="678" src="https://github.com/omarAlharbi1/ImageR-image-Search-Engine-using-image/assets/127057011/da5a47a6-f290-4f6e-909c-3ced9f54ccab">
