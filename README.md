@@ -3,20 +3,21 @@ search engine that search using image, (reverse image searching), used to find s
 
 # This is the Beta Version.
 
-Functionalities:
+# Functionalities:
 1. you can filter a dataset to get a similar images to a corseponding image,
 2. you can seperate duplications in a dataset,
 3. Planned for more
 
-Usage:
+# Usage:
   very simple, just run the tool and follow the instructions,
   if you face any problems with the color or the logo,
   add an argument to the main.py (--no_colors true) to remove colors and logo
 
-you should note:
-  if you want to check the duplication in a dataset, the way the tool work is to check
+# you should note:
+  Upon identifying similar images, the tool will organize them into individual folders within the search directory. 
+  Each folder will contain a distinct group of similar images.
 
-performance:
+# performance:
   the tool support multiprocessing, the number of process is half of the number of threads in your cpu,
   I am planning to allow the adjustion of number of cpus in the future,
 
