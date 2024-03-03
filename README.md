@@ -22,7 +22,7 @@ performance:
 
   the tool will check the similarity of each image with other images,
   Images compared to others will be excluded from future comparisons.
-  and that will make the tool complixity is less than O(n^2 / 2),
+  and that will make the tool complixity is exactly O(n^2 / 2),
   if you have 30 images,
   the number of processes will be (30+29+28 ... 3+2+1)
   
